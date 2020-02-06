@@ -1,0 +1,155 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514e;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+ margin: 60px 0 100px 0;
+
+}
+.bottom-container{ 
+    background-color: #66BFBF;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    margin-top: 50px;
+
+  
+}
+.cloudbottom{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.cloudtop{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+h1{
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+.student{
+    color:#66BFBF ;
+}
+h3{
+   color: #11999E;
+}
+h4{
+    color: #11999E;
+ }
+a{
+   color: #11999E;
+   font-weight: normal;
+}
+.skill-row{
+    width: 50%;
+    margin: auto;
+   text-align: left;
+}
+.name{
+    font-family: 'Sacramento';
+    font-size: 2.8rem;
+    -webkit-margin-start: 0px;
+    margin-block-start: 0px;
+    margin-block-end: 0.43rem;
+    margin: auto auto 0px;
+}
+.css{
+    width: 23%;
+    float: right;
+    position: relative;
+    left: 10px;
+    margin-left: 30px;
+}
+.web{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+.skill-p{
+    line-height: 2;
+}
+.cssh{
+    position: relative;
+    left: 0px;
+}
+.htmlh{
+    position: relative;
+    left: 185px;
+}
+.htmlb{
+    position: absolute;
+    left: 345px;
+    color: black;
+    top:850px;
+}
+hr{
+    border-style:dotted none none ;
+    height: 1px;
+    border-width : 5px;
+    width: 55px;
+    border-color:#EAF6F6;
+}
+p{
+    line-height: 2;
+}
+.cube{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+.gaming{
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contactbutton {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border :1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+    color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:12px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.contactbutton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.contactbutton:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+    margin: 0;
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
+     
