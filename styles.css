@@ -60,6 +60,7 @@ h4{
 a{
    color: #11999E;
    font-weight: normal;
+   text-decoration: none;
 }
 .skill-row{
     width: 50%;
@@ -152,4 +153,6 @@ p{
     color: #EAF6F6;
     font-size: 0.75rem;
 }
-     
+#bro{
+    background-color: #E4F9F5;
+}
